@@ -5,6 +5,7 @@ html {
 div {
     width: 50%;
     margin-left: 25%;
+    text-align: center;
 }
 
 
@@ -22,6 +23,6 @@ img {
 }
 
 .text {
-    text-align: center;
     color: white;
+
 }
